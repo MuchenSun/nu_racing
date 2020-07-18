@@ -1,3 +1,17 @@
+# NU Racing
+
+This simulator is based on MIT's racecar simulator, and customized to be a racecar contest gym at Northwestern.
+
+## Running Tech 2nd Floor Map
+
+~~~
+roslaunch racecar_simulator simulate_tech_f2.launch 
+~~~
+
+***
+
+Below is the original README from MIT's racecar simulator repository:
+
 # Racecar Simulator
 
 This is a lightweight 2D simulator of the MIT Racecar.
