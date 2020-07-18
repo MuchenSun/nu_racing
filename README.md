@@ -4,9 +4,15 @@ This simulator is based on MIT's racecar simulator, and customized to be a racec
 
 ## Running Tech 2nd Floor Map
 
+After compiling, executing:
+
 ~~~
 roslaunch racecar_simulator simulate_tech_f2.launch 
 ~~~
+
+You should see the racecar near the Mechanical Engineering office like shown below:
+
+![The racecar_in_near_me_office](https://raw.githubusercontent.com/mit-racecar/racecar_simulator/master/media/racecar_tech_f2_1.png)
 
 ***
 
